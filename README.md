@@ -73,6 +73,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Unnikrishnan46/Unnikrishnan46/output/snake.svg" alt="Snake animation" />
+<h3 align="left">PROFILE WEBSITE  :  www.unnikrishnan.xyz</h3>
 
 ###
